@@ -8,7 +8,7 @@
 <h3 align="left">🌟 About Me:</h3>
 <ul>
     <li>🔭 I’m passionate about <strong>improving commerce through computer science</strong>.</li>
-    <li>🌱 I’m currently learning <strong>Python, JavaScript, HTML/CSS, and Java</strong>.</li>
+    <li>🌱 I’ve developed a strong foundation in <strong>Python, JavaScript, HTML/CSS, and Java</strong>, and I’m continually refining my skills.</li>
     <li>🤖 I'm fascinated by <strong>Artificial Intelligence and Machine Learning</strong>.</li>
     <li>🔒 I have a keen interest in <strong>Cybersecurity</strong>.</li>
     <li>💬 Ask me about <strong>AI, ML, and how technology can revolutionize commerce</strong>.</li>
