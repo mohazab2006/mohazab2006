@@ -18,6 +18,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
         </a>.
     </li>
+    <li>💼 See my <a href="https://shorturl.at/LVhii" target="_blank">Personal Portfolio</a>.</li>
     <li>⚡ Fun fact: I love combining <strong>commerce, technology, and creativity</strong> to solve modern challenges and innovate solutions.</li>
 </ul>
 
