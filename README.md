@@ -50,6 +50,10 @@
      <a href="https://isocpp.org/" target="_blank"> 
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
     </a>
+    <a href="https://nodejs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> 
+</a>
+
 </p>
 
 ---
