@@ -93,6 +93,13 @@
     <a href="#"> 
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
     </a>
+    <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+<a href="https://www.apple.com/macos/" target="_blank">
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</a>
+
 </p>
 
 
