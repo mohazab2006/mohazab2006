@@ -113,6 +113,10 @@
 <a href="https://www.adobe.com/" target="_blank">
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
 </a>
+<a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
 
 
 </p>
