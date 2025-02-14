@@ -99,9 +99,6 @@
         <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> 
     </a>
     <a href="#"> 
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-    </a>
-    <a href="#"> 
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
     </a>
     <a href="https://www.microsoft.com/windows" target="_blank">
