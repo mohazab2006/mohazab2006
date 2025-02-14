@@ -99,6 +99,13 @@
 <a href="https://www.apple.com/macos/" target="_blank">
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </a>
+<a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+<a href="https://www.adobe.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+</a>
+
 
 </p>
 
