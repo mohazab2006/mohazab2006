@@ -13,6 +13,8 @@
     <li>🔒 I have a keen interest in <strong>Cybersecurity</strong>.</li>
     <li>💬 Ask me about <strong>AI, ML, and how technology can revolutionize commerce</strong>.</li>
     <li>🛜 I create websites to help people simplify their online presence when they’re unsure how to start</li>
+    <li>🖥️ I’m passionate about <strong>building and selling custom PCs</strong>.</li>
+    <li>👕 If I’m not working on my tech skills, I’m usually <strong>designing for my upcoming clothing brand</strong>.</li>
     <li>📫 Connect with me on 
         <a href="https://www.linkedin.com/in/mohamedazabca/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
