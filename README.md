@@ -41,6 +41,15 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
     </a>
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    </a>
+    <a href="https://react.dev/" target="_blank"> 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+    </a>
+     <a href="https://isocpp.org/" target="_blank"> 
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+    </a>
 </p>
 
 ---
@@ -48,22 +57,44 @@
 <!-- Tools & Platforms -->
 <h3 align="left">⚙️ Tools & Platforms:</h3>
 <p align="left">
-    <a href="https://notion.so/" target="_blank"> 
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
+    <a href="https://www.docker.com/" target="_blank"> 
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
     </a>
-    <a href="https://www.microsoft.com/microsoft-365/" target="_blank"> 
-        <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/> 
+    <a href="https://aws.amazon.com/" target="_blank"> 
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
     </a>
-    <a href="https://www.adobe.com/" target="_blank"> 
-        <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/> 
+    <a href="https://www.ubuntu.com/" target="_blank"> 
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
     </a>
     <a href="https://www.canva.com/" target="_blank"> 
         <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> 
     </a>
-    <a href="https://aka.ms/terminal" target="_blank"> 
-        <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/> 
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+    </a>
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/> 
+    </a>
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
+    </a>
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
+    </a>
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> 
+    </a>
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> 
+    </a>
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+    </a>
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
     </a>
 </p>
+
 
 ---
 
