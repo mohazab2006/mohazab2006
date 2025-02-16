@@ -44,9 +44,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
     </a>
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-    </a>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> 
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white"/> 
+</a>
     <a href="https://react.dev/" target="_blank"> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
     </a>
@@ -119,8 +119,9 @@
 <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
-
-
+ <a href="https://www.mysql.com/" target="_blank"> 
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    </a>
 
 </p>
 
