@@ -40,6 +40,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
     </a>
+    <a href="https://react.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    </a>
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     </a>
@@ -75,7 +78,6 @@
 ---
 
 <!-- Tools & Platforms -->
-<!-- Tools & Platforms -->
 <h3 align="left">⚙️ Tools & Platforms:</h3>
 <p align="left">
     <a href="#"> 
@@ -89,6 +91,9 @@
     </a>
     <a href="#"> 
         <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> 
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </a>
     <a href="https://www.virtualbox.org/" target="_blank">
         <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
