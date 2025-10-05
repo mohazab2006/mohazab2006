@@ -75,6 +75,7 @@
 ---
 
 <!-- Tools & Platforms -->
+<!-- Tools & Platforms -->
 <h3 align="left">⚙️ Tools & Platforms:</h3>
 <p align="left">
     <a href="#"> 
@@ -94,6 +95,9 @@
     </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    </a>
+    <a href="https://www.openstack.org/" target="_blank">
+        <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
     </a>
 </p>
 
