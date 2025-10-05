@@ -107,12 +107,6 @@
     <a href="https://www.openstack.org/" target="_blank">
         <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
     </a>
-    <a href="https://vercel.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-    <a href="https://nginx.org/" target="_blank">
-        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-    </a>
     <a href="https://expo.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
     </a>
