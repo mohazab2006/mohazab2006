@@ -12,13 +12,28 @@
     <li>⚙️ I build and manage <strong>self-hosted infrastructure</strong>, practicing containerization, server automation, and reliable deployments.</li>
     <li>🛜 I enjoy learning about <strong>computer networking</strong>, VPNs, and scalable, secure connections between distributed systems.</li>
     <li>🌱 I’ve developed a strong foundation in <strong>Python, TypeScript, Java, C, and SQL</strong>, and I’m expanding into <strong>DevOps & cloud-native workflows</strong>.</li>
+    <li>💻 I’ve worked as a <strong>freelance web developer</strong>, turning ideas into impactful websites for small businesses and non-profits like <strong>MILK Inc., Empower Orphans, and HT Clean</strong> — driven by a passion for helping others bring their vision online.</li>
     <li>🚀 I like turning ideas into reality — from <strong>full-stack platforms</strong> for organizations to self-hosted servers for automation and development.</li>
-    <li>📫 Connect with me on 
-        <a href="https://www.linkedin.com/in/mohamedazabca/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-        </a>.
-    </li>
 </ul>
+
+---
+
+<!-- Resume & Contact -->
+<h3 align="left">📄 Resume & Contact:</h3>
+<p align="left">
+    <a href="mailto:mohamedazab@cmail.carleton.ca" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mohamedazabca/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/mohazab2006" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://github.com/mohazab2006/mohazab2006/blob/Projects/Mohamed_Azab_Resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+    </a>
+</p>
 
 ---
 
