@@ -43,6 +43,9 @@
     <a href="https://react.dev/" target="_blank">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    </a>
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     </a>
@@ -103,6 +106,12 @@
     </a>
     <a href="https://www.openstack.org/" target="_blank">
         <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
+    </a>
+    <a href="https://vercel.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://nginx.org/" target="_blank">
+        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
     </a>
 </p>
 
