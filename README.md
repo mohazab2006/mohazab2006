@@ -43,8 +43,8 @@
     <a href="https://react.dev/" target="_blank">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <a href="https://reactnative.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </a>
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -113,6 +113,10 @@
     <a href="https://nginx.org/" target="_blank">
         <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
     </a>
+    <a href="https://expo.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+    </a>
+
 </p>
 
 ---
