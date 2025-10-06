@@ -12,7 +12,7 @@
     <li>⚙️ I build and manage <strong>self-hosted infrastructure</strong>, practicing containerization, server automation, and reliable deployments.</li>
     <li>🛜 I enjoy learning about <strong>computer networking</strong>, VPNs, and scalable, secure connections between distributed systems.</li>
     <li>🌱 I’ve developed a strong foundation in <strong>Python, TypeScript, Java, C, and SQL</strong>, and I’m expanding into <strong>DevOps & cloud-native workflows</strong>.</li>
-    <li>💻 I’ve worked as a <strong>freelance web developer</strong>, turning ideas into impactful websites for small businesses and non-profits like <strong>MILK Inc., Empower Orphans, and HT Clean</strong> — driven by a passion for helping others bring their vision online.</li>
+    <li>💻 I’ve worked as a <strong>freelance web developer</strong>, turning ideas into impactful websites for many small businesses and non-profits like <strong>MILK Inc., Empower Orphans, and HT Clean</strong> — driven by a passion for helping others bring their vision online.</li>
     <li>🚀 I like turning ideas into reality — from <strong>full-stack platforms</strong> for organizations to self-hosted servers for automation and development.</li>
 </ul>
 
