@@ -139,21 +139,14 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohazab2006&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats
 
-<!-- Contributions -->
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohazab2006&theme=radical" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats-gamma-cyan-85.vercel.app/api/top-langs/?username=mohazab2006&layout=compact&theme=radical)
 
-<!-- Most Used Languages -->
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohazab2006&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats-gamma-cyan-85.vercel.app/api?username=mohazab2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=mohazab2006&theme=radical)
+
 
 ---
 
