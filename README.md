@@ -8,14 +8,15 @@
 <!-- About Me -->
 <h3 align="left">🌟 About Me:</h3>
 <ul>
-    <li>🤖 I’m deeply interested in <strong>Artificial Intelligence and Machine Learning engineering</strong> — especially model deployment, optimization, and applied data systems.</li>
-    <li>🔒 I’m exploring <strong>Cybersecurity</strong> with a focus on secure web applications, authentication/authorization, and network security.</li>
-    <li>⚙️ I build and manage <strong>self-hosted infrastructure</strong>, practicing containerization, server automation, and reliable deployments.</li>
-    <li>🛜 I enjoy learning about <strong>computer networking</strong>, VPNs, and scalable, secure connections between distributed systems.</li>
-    <li>🌱 I’ve developed a strong foundation in <strong>Python, TypeScript, Java, C, and SQL</strong>, and I’m expanding into <strong>DevOps & cloud-native workflows</strong>.</li>
-    <li>💻 I’ve worked as a <strong>freelance web developer</strong>, turning ideas into impactful websites for many small businesses and non-profits like <strong>MILK Inc., Empower Orphans, and HT Clean</strong> — driven by a passion for helping others bring their vision online.</li>
-    <li>🚀 I like turning ideas into reality — from <strong>full-stack platforms</strong> for organizations to self-hosted servers for automation and development.</li>
+    <li>🤖 Interested in <strong>Artificial Intelligence and Machine Learning</strong>, especially applied systems, automation, and real-world integrations.</li>
+    <li>🔒 Exploring <strong>Cybersecurity</strong> methodologies, best practices, and tools with a security-first mindset, focusing on secure web applications, authentication, and authorization.</li>
+    <li>⚙️ Enjoy building <strong>self-hosted systems</strong> and tools that automate workflows and reduce manual effort.</li>
+    <li>💻 Build <strong>full-stack web applications</strong> to help small businesses and non-profits bring their ideas online and improve how they operate.</li>
+    <li>🧠 Like creating <strong>small programs and utilities</strong> that solve everyday problems and make systems easier to use.</li>
+    <li>🎮 Long-term interest in <strong>game development</strong>, engine-level systems, and <strong>anti-cheat / security mechanisms</strong>.</li>
+    <li>🚀 Always learning, experimenting, and turning ideas into practical, working software.</li>
 </ul>
+
 
 ---
 
