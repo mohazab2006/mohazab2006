@@ -144,9 +144,9 @@
 
 ![Top Languages](https://github-readme-stats-gamma-cyan-85.vercel.app/api/top-langs/?username=mohazab2006&layout=compact&theme=radical&cache_seconds=300&v=2)
 
-![GitHub Stats](https://github-readme-stats-gamma-cyan-85.vercel.app/api?username=mohazab2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-gamma-cyan-85.vercel.app/api?username=mohazab2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=300&v=2)
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=mohazab2006&theme=radical)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=mohazab2006&theme=radical&cache_seconds=300&v=2)
 
 
 ---
