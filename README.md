@@ -39,7 +39,7 @@
 </p>
 
 
-<h3 align="left">🌐 Website & AI Chatbot:</h3>
+<h3 align="left">🌐 Website & Personal AI:</h3>
 <p align="left">
   <a href="https://mohamedazab.dev" target="_blank">
     <img src="https://img.shields.io/badge/mohamedazab.dev-6C63FF?style=for-the-badge" alt="Website"/>
