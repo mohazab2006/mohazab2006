@@ -8,8 +8,8 @@
 <!-- About Me -->
 <h3 align="left">🌟 About Me:</h3>
 <ul>
-    <li>🤖 Interested in <strong>Artificial Intelligence and Machine Learning</strong>, especially applied systems, automation, and real-world integrations.</li>
-    <li>🔒 Exploring <strong>Cybersecurity</strong> methodologies, best practices, and tools with a security-first mindset, focusing on secure web applications, authentication, and authorization.</li>
+    <li>🤖 Interested in <strong>AI and real-world systems</strong>, especially building LLM-powered tools, automation pipelines, and intelligent workflows.</li>
+    <li>🔒 Exploring <strong>cybersecurity and system design</strong>, working on threat detection, monitoring pipelines, and understanding how systems actually stay secure.</li>
     <li>⚙️ Enjoy building <strong>self-hosted systems</strong> and tools that automate workflows and reduce manual effort.</li>
     <li>💻 Build <strong>full-stack web applications</strong> to help small businesses and non-profits bring their ideas online and improve how they operate.</li>
     <li>🧠 Like creating <strong>small programs and utilities</strong> that solve everyday problems and make systems easier to use.</li>
