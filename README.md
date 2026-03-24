@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/mohamedazab.dev-6C63FF?style=for-the-badge" alt="Website"/>
   </a>
   <a href="https://mohamedazab.dev" target="_blank">
-  <img src="https://img.shields.io/badge/🤖_Snaggy_AI_Chatbot-blueviolet?style=for-the-badge&logo=robot" alt="Snaggy Chatbot"/>
+  <img src="https://img.shields.io/badge/🤖_Snaggy_AI-blueviolet?style=for-the-badge&logo=robot" alt="Snaggy Chatbot"/>
   </a>
 </p>
 
