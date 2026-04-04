@@ -6,13 +6,12 @@
 ---
 <h3 align="left">🌟 About Me:</h3>
 <ul>
-    <li>🤖 Focused on <strong>Artificial Intelligence and Machine Learning</strong>, building LLM-powered systems, intelligent agents, and real-world AI applications.</li>
-    <li>🔒 Passionate about <strong>Cyber AI and secure system design</strong>, exploring threat detection, anomaly detection, and how AI can enhance cybersecurity and system resilience.</li>
-    <li>⚙️ Enjoy building <strong>self-hosted systems</strong> and tools that automate workflows and reduce manual effort.</li>
-    <li>💻 Build <strong>full-stack web applications</strong> to help small businesses and non-profits bring their ideas online and improve how they operate.</li>
-    <li>🧠 Like creating <strong>small programs and utilities</strong> that solve everyday problems and make systems easier to use.</li>
-    <li>🎮 Long-term interest in <strong>game development</strong>, engine-level systems, and <strong>anti-cheat / security mechanisms</strong>.</li>
-    <li>🚀 Always learning, experimenting, and turning ideas into practical, working software.</li>
+    <li>🤖 Building AI/ML systems, intelligent agents, and real-world applications.</li>
+    <li>🔒 Focused on Cyber AI, secure systems, and threat detection.</li>
+    <li>⚙️ Creating self-hosted tools and automation systems.</li>
+    <li>💻 Developing full-stack apps for real-world impact.</li>
+    <li>🧠 Turning ideas into practical, efficient software.</li>
+    <li>🎮 Exploring game systems and anti-cheat mechanisms.</li>
 </ul>
 
 ---
