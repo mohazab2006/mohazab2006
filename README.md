@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Mohamed Azab</h1>
-<h3 align="center">A Computer Science student at Carleton University focused on AI/ML, Cybersecurity & Infrastructure</h3>
+<h3 align="center">2nd year CS @ Carleton focused on AI/ML, Cybersecurity, and scalable systems</h3>
 
 
 ---
